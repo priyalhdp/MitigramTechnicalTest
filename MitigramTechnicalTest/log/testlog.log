@@ -1,0 +1,713 @@
+2021-02-22 23:51:59,548 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:51:59,565 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:52:02,630 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:52:02,637 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:52:02,668 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:04,795 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:52:04,801 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:04,917 - MitigramTestLogger -INFO - Given <email> as e-mail address
+2021-02-22 23:52:05,525 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:52:06,344 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:52:06,465 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-22 23:52:08,939 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-22 23:52:14,998 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:52:22,099 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:52:22,115 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:52:24,948 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:52:24,969 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:52:24,987 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:26,453 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:52:26,478 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:26,563 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-22 23:52:27,235 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:52:28,008 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:52:28,350 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-22 23:52:29,105 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-22 23:52:31,629 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:52:39,500 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:52:39,530 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:52:41,920 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:52:41,932 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:52:41,964 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:44,246 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:52:44,258 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:52:44,341 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-22 23:52:44,978 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:52:45,780 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:52:45,857 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-22 23:52:48,491 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:52:56,129 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:52:56,136 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:52:58,639 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:52:58,644 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:52:58,695 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:00,357 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:53:00,363 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:00,451 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-22 23:53:01,042 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:53:01,877 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:53:01,938 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-22 23:53:02,590 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-22 23:53:05,233 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:53:12,332 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:53:12,339 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:53:15,059 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:53:15,072 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:53:15,080 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:17,135 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:53:17,163 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:17,259 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-22 23:53:17,823 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:53:18,650 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:53:18,707 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-22 23:53:19,373 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-22 23:53:23,143 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:53:33,996 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:53:34,009 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:53:36,537 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:53:36,548 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:53:36,580 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:38,082 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:53:38,087 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:53:38,157 - MitigramTestLogger -INFO - Given  as e-mail address
+2021-02-22 23:53:38,716 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:53:39,591 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:53:39,664 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-22 23:54:50,206 - MitigramTestLogger -INFO - Close the web browser
+2021-02-22 23:55:06,392 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-22 23:55:06,418 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-22 23:55:10,906 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-22 23:55:10,910 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-22 23:55:10,921 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:55:14,701 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-22 23:55:14,710 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-22 23:55:14,820 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-22 23:55:15,460 - MitigramTestLogger -INFO - Given password
+2021-02-22 23:55:16,236 - MitigramTestLogger -INFO - clicked loggin
+2021-02-22 23:55:16,282 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-22 23:55:17,108 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-22 23:55:20,848 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:08:00,123 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:08:00,357 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:08:06,173 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:08:06,187 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:08:06,196 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:06,493 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:08:06,522 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:07,290 - MitigramTestLogger -INFO - Defined FirstName as First Name
+2021-02-23 00:08:07,658 - MitigramTestLogger -INFO - Defined LastName as Last Name
+2021-02-23 00:08:07,971 - MitigramTestLogger -INFO - Defined country as the Country
+2021-02-23 00:08:08,225 - MitigramTestLogger -INFO - Defined email as his Email
+2021-02-23 00:08:08,553 - MitigramTestLogger -INFO - Defined phone Phone No
+2021-02-23 00:08:09,679 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:08:10,336 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:08:10,902 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:08:11,525 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:08:12,610 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:08:14,141 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:08:14,284 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:08:17,982 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:08:17,994 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:08:18,006 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:18,211 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:08:18,220 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:18,607 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:08:18,855 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:08:19,053 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:08:19,480 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:08:19,692 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:08:20,899 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:08:21,624 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:08:22,172 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:08:22,600 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:08:24,942 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:08:27,593 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:08:27,736 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:08:33,289 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:08:33,299 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:08:33,307 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:33,708 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:08:33,752 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:34,188 - MitigramTestLogger -INFO - Defined  as First Name
+2021-02-23 00:08:34,557 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:08:34,838 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:08:35,509 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:08:35,740 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:08:36,875 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:08:37,508 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:08:38,052 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:08:38,471 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:08:39,139 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:08:40,670 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:08:40,807 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:08:45,055 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:08:45,066 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:08:45,075 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:45,453 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:08:45,460 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:45,748 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:08:45,977 - MitigramTestLogger -INFO - Defined  as Last Name
+2021-02-23 00:08:46,394 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:08:46,684 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:08:46,954 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:08:48,014 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:08:48,743 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:08:49,365 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:08:49,808 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:08:50,321 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:08:52,150 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:08:52,275 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:08:57,073 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:08:57,085 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:08:57,143 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:57,402 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:08:57,411 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:08:57,979 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:08:58,251 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:08:58,604 - MitigramTestLogger -INFO - Defined  as the Country
+2021-02-23 00:08:58,887 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:08:59,217 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:09:00,298 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:09:01,014 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:09:01,588 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:09:02,101 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:09:02,648 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:09:04,486 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:09:04,750 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:09:08,161 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:09:08,171 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:09:08,182 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:08,424 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:09:08,433 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:08,633 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:09:08,852 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:09:09,022 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:09:09,241 - MitigramTestLogger -INFO - Defined  as his Email
+2021-02-23 00:09:09,580 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:09:10,706 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:09:11,393 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:09:11,966 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:09:12,332 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:09:13,005 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:09:15,240 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:09:15,394 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:09:19,405 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:09:19,435 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:09:19,450 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:19,740 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:09:19,748 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:20,201 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:09:20,424 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:09:20,848 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:09:21,113 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:09:21,365 - MitigramTestLogger -INFO - Defined  Phone No
+2021-02-23 00:09:22,499 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:09:23,186 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:09:23,764 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:09:24,123 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:09:24,627 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:09:31,746 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:09:31,755 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:09:34,009 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:09:34,032 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:09:34,060 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:36,591 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:09:36,611 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:36,728 - MitigramTestLogger -INFO - Given <email> as e-mail address
+2021-02-23 00:09:37,380 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:09:38,260 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:09:38,332 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:09:38,981 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:09:41,519 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:09:49,177 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:09:49,185 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:09:51,675 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:09:51,713 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:09:51,721 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:53,364 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:09:53,387 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:09:53,461 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:09:54,146 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:09:54,980 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:09:55,028 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:09:55,718 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:09:59,238 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:10:05,242 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:10:05,253 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:10:07,664 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:10:07,681 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:10:07,717 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:09,215 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:10:09,225 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:09,302 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:10:09,992 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:10:10,828 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:10:10,864 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:10:13,541 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:10:20,076 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:10:20,092 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:10:22,944 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:10:22,947 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:10:22,961 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:27,773 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:10:27,780 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:27,893 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:10:28,532 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:10:29,364 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:10:29,399 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:10:30,047 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:10:32,857 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:10:40,015 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:10:40,026 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:10:42,625 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:10:42,644 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:10:42,651 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:43,857 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:10:43,919 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:44,042 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:10:44,639 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:10:45,468 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:10:45,543 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:10:46,222 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:10:49,641 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:10:56,228 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:10:56,262 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:10:58,334 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:10:58,350 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:10:58,407 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:10:59,969 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:10:59,983 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:11:00,054 - MitigramTestLogger -INFO - Given  as e-mail address
+2021-02-23 00:11:00,596 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:11:01,386 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:11:01,415 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:11:04,901 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:11:14,206 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:11:14,214 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:11:16,435 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:11:16,439 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:11:16,454 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:11:18,122 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:11:18,136 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:11:18,241 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:11:18,830 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:11:19,629 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:11:19,688 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:11:20,295 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:11:23,576 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:26:30,887 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:26:31,031 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:26:37,563 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:26:37,646 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:26:37,703 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:26:38,411 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:26:38,446 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:26:39,395 - MitigramTestLogger -INFO - Defined FirstName as First Name
+2021-02-23 00:26:39,719 - MitigramTestLogger -INFO - Defined LastName as Last Name
+2021-02-23 00:26:40,200 - MitigramTestLogger -INFO - Defined country as the Country
+2021-02-23 00:26:40,562 - MitigramTestLogger -INFO - Defined email as his Email
+2021-02-23 00:26:40,805 - MitigramTestLogger -INFO - Defined phone Phone No
+2021-02-23 00:26:42,185 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:26:42,820 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:26:43,384 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:26:43,856 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:26:45,094 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:26:47,273 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:26:47,420 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:26:52,222 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:26:52,325 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:26:52,401 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:26:53,340 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:26:53,352 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:26:54,329 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:26:54,668 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:26:54,931 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:26:55,173 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:26:55,480 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:26:56,609 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:26:57,460 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:26:58,131 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:26:58,730 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:26:59,496 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:27:01,776 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:27:01,944 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:27:06,915 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:27:06,934 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:27:06,950 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:07,711 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:27:07,825 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:08,360 - MitigramTestLogger -INFO - Defined  as First Name
+2021-02-23 00:27:09,280 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:27:09,608 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:27:10,151 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:27:10,495 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:27:11,628 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:27:12,296 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:27:12,856 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:27:13,292 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:27:14,205 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:27:16,574 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:27:16,713 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:27:20,515 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:27:20,538 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:27:20,596 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:20,937 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:27:21,164 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:21,481 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:27:22,043 - MitigramTestLogger -INFO - Defined  as Last Name
+2021-02-23 00:27:22,298 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:27:22,917 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:27:23,228 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:27:24,323 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:27:25,014 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:27:25,668 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:27:26,057 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:27:26,766 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:27:28,641 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:27:28,843 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:27:32,890 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:27:32,897 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:27:32,920 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:33,228 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:27:33,237 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:34,073 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:27:34,325 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:27:34,786 - MitigramTestLogger -INFO - Defined  as the Country
+2021-02-23 00:27:35,225 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:27:35,557 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:27:36,626 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:27:37,526 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:27:38,094 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:27:38,534 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:27:39,487 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:27:41,142 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:27:41,323 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:27:46,261 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:27:46,277 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:27:46,286 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:46,735 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:27:46,748 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:27:47,087 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:27:47,471 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:27:47,942 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:27:48,253 - MitigramTestLogger -INFO - Defined  as his Email
+2021-02-23 00:27:48,718 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:27:49,793 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:27:50,475 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:27:51,029 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:27:51,551 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:27:52,752 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:27:55,062 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:27:55,236 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:27:59,343 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:27:59,434 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:27:59,476 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:00,315 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:28:00,328 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:00,692 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:28:00,965 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:28:01,394 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:28:01,741 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:28:01,923 - MitigramTestLogger -INFO - Defined  Phone No
+2021-02-23 00:28:03,031 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:28:03,725 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:28:04,292 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:28:04,702 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:28:05,274 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:28:19,149 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:28:19,248 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:28:25,671 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:28:25,700 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:28:25,723 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:29,823 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:28:29,832 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:30,061 - MitigramTestLogger -INFO - Given <email> as e-mail address
+2021-02-23 00:28:30,700 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:28:31,625 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:28:31,824 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:28:33,286 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:28:35,890 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:28:46,730 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:28:46,747 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:28:49,300 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:28:49,317 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:28:49,363 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:50,654 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:28:50,667 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:28:50,740 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:28:51,544 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:28:52,382 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:28:52,462 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:28:53,165 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:28:55,976 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:29:05,761 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:29:05,816 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:29:08,361 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:29:08,380 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:29:08,393 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:10,353 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:29:10,363 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:10,497 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:29:11,100 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:29:11,917 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:29:12,012 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:29:16,918 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:29:25,767 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:29:25,868 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:29:28,377 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:29:28,422 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:29:28,451 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:30,165 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:29:30,176 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:30,274 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:29:30,915 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:29:31,748 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:29:31,833 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:29:32,576 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:29:35,726 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:29:41,864 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:29:41,950 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:29:44,524 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:29:44,544 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:29:44,571 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:47,254 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:29:47,260 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:29:47,346 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:29:47,950 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:29:48,759 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:29:48,806 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:29:49,483 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:29:52,195 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:29:58,786 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:29:58,796 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:30:01,179 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:30:01,199 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:30:01,212 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:30:03,579 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:30:03,626 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:30:03,716 - MitigramTestLogger -INFO - Given  as e-mail address
+2021-02-23 00:30:04,264 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:30:05,107 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:30:05,158 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:30:08,124 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:30:15,337 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:30:15,373 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:30:18,977 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:30:18,988 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:30:18,994 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:30:22,500 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:30:22,525 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:30:22,657 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:30:23,298 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:30:24,139 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:30:24,202 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:30:24,947 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:30:28,031 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:34:46,613 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:34:46,802 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:34:56,287 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:34:56,388 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:34:56,433 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:34:56,756 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:34:56,903 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:34:57,941 - MitigramTestLogger -INFO - Defined FirstName as First Name
+2021-02-23 00:34:58,185 - MitigramTestLogger -INFO - Defined LastName as Last Name
+2021-02-23 00:34:58,488 - MitigramTestLogger -INFO - Defined country as the Country
+2021-02-23 00:34:58,689 - MitigramTestLogger -INFO - Defined email as his Email
+2021-02-23 00:34:59,007 - MitigramTestLogger -INFO - Defined phone Phone No
+2021-02-23 00:35:00,278 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:35:00,939 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:35:01,493 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:35:02,028 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:35:06,396 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:35:08,486 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:35:08,624 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:35:13,924 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:35:13,938 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:35:13,964 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:14,260 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:35:14,290 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:15,036 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:35:15,426 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:35:15,732 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:35:16,316 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:35:16,629 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:35:17,715 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:35:18,383 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:35:18,983 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:35:19,361 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:35:20,659 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:35:22,621 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:35:22,778 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:35:29,068 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:35:29,167 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:35:29,343 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:30,726 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:35:30,766 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:31,169 - MitigramTestLogger -INFO - Defined  as First Name
+2021-02-23 00:35:31,753 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:35:32,087 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:35:32,369 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:35:32,803 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:35:33,875 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:35:34,659 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:35:35,206 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:35:35,582 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:35:36,864 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:35:38,957 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:35:39,161 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:35:43,865 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:35:43,889 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:35:43,967 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:44,746 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:35:44,816 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:45,513 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:35:45,866 - MitigramTestLogger -INFO - Defined  as Last Name
+2021-02-23 00:35:46,297 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:35:46,594 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:35:46,833 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:35:47,905 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:35:48,596 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:35:49,144 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:35:49,520 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:35:50,144 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:35:52,056 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:35:52,261 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:35:58,271 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:35:58,282 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:35:58,326 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:58,814 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:35:59,083 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:35:59,461 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:35:59,674 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:36:00,027 - MitigramTestLogger -INFO - Defined  as the Country
+2021-02-23 00:36:00,423 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:36:00,683 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:36:01,814 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:36:02,481 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:36:03,041 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:36:03,436 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:36:03,921 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:36:05,791 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:36:05,956 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:36:09,616 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:36:09,630 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:36:09,654 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:10,048 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:36:10,088 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:10,741 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:36:11,040 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:36:11,276 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:36:11,446 - MitigramTestLogger -INFO - Defined  as his Email
+2021-02-23 00:36:12,077 - MitigramTestLogger -INFO - Defined 072980890 Phone No
+2021-02-23 00:36:13,191 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:36:13,807 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:36:14,408 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:36:14,829 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:36:15,445 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:36:17,296 - MitigramTestLogger -INFO - Chrome Browser is loaded
+2021-02-23 00:36:17,474 - MitigramTestLogger -INFO - Maximize the Chrome browser
+2021-02-23 00:36:22,271 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:36:22,280 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:36:22,294 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:22,593 - MitigramTestLogger -INFO - Loading Career Page
+2021-02-23 00:36:22,604 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:23,078 - MitigramTestLogger -INFO - Defined Valid as First Name
+2021-02-23 00:36:24,147 - MitigramTestLogger -INFO - Defined Valid as Last Name
+2021-02-23 00:36:24,765 - MitigramTestLogger -INFO - Defined Sweden as the Country
+2021-02-23 00:36:25,199 - MitigramTestLogger -INFO - Defined Valid@a.com as his Email
+2021-02-23 00:36:25,475 - MitigramTestLogger -INFO - Defined  Phone No
+2021-02-23 00:36:26,550 - MitigramTestLogger -INFO - Uploaded PDF File
+2021-02-23 00:36:27,180 - MitigramTestLogger -INFO - Submit the information
+2021-02-23 00:36:27,745 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:36:28,131 - MitigramTestLogger -INFO - CareersWarning- Screenshot captured
+2021-02-23 00:36:28,972 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:36:36,706 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:36:36,736 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:36:39,205 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:36:39,221 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:36:39,248 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:41,277 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:36:41,306 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:36:41,405 - MitigramTestLogger -INFO - Given <email> as e-mail address
+2021-02-23 00:36:42,007 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:36:42,799 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:36:42,867 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:36:43,648 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:36:46,539 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:36:54,251 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:36:54,260 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:36:56,702 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:36:56,720 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:36:56,753 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:00,167 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:37:00,190 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:00,264 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:37:00,890 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:37:01,704 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:37:01,774 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:37:02,496 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:37:05,946 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:37:14,736 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:37:14,769 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:37:17,369 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:37:17,374 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:37:17,415 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:19,121 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:37:19,160 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:19,258 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:37:19,836 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:37:20,603 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:37:20,683 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:37:23,835 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:37:31,501 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:37:31,537 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:37:33,736 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:37:33,761 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:37:33,770 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:35,340 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:37:35,351 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:35,433 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:37:36,119 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:37:36,880 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:37:36,908 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:37:37,546 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:37:41,015 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:37:48,175 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:37:48,197 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:37:51,186 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:37:51,195 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:37:51,201 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:54,360 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:37:54,399 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:37:54,791 - MitigramTestLogger -INFO - Given Invalid as e-mail address
+2021-02-23 00:37:55,414 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:37:56,241 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:37:56,270 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:37:57,190 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:37:59,701 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:38:07,791 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:38:07,809 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:38:11,420 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:38:11,436 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:38:11,457 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:38:12,929 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:38:12,934 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:38:13,034 - MitigramTestLogger -INFO - Given  as e-mail address
+2021-02-23 00:38:13,642 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:38:14,493 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:38:17,775 - MitigramTestLogger -INFO - Verify the warning message is success
+2021-02-23 00:38:21,263 - MitigramTestLogger -INFO - Close the web browser
+2021-02-23 00:38:28,307 - MitigramTestLogger -INFO - FireFox Browser is loaded
+2021-02-23 00:38:28,320 - MitigramTestLogger -INFO - Maximize the Firefox browser
+2021-02-23 00:38:30,408 - MitigramTestLogger -INFO - Navigate to the URL
+2021-02-23 00:38:30,413 - MitigramTestLogger -INFO - Validate Title of the webpage is success
+2021-02-23 00:38:30,462 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:38:32,137 - MitigramTestLogger -INFO - Clicked Login link
+2021-02-23 00:38:32,233 - MitigramTestLogger -INFO - Verify current URL is Success
+2021-02-23 00:38:32,435 - MitigramTestLogger -INFO - Given Valid as e-mail address
+2021-02-23 00:38:32,997 - MitigramTestLogger -INFO - Given password
+2021-02-23 00:38:33,796 - MitigramTestLogger -INFO - clicked loggin
+2021-02-23 00:38:33,862 - MitigramTestLogger -INFO - Verify the warning message is Failure
+2021-02-23 00:38:34,740 - MitigramTestLogger -INFO - LoginSteps- Screenshot captured
+2021-02-23 00:38:37,955 - MitigramTestLogger -INFO - Close the web browser
